@@ -15,9 +15,9 @@ Sou Álvaro Antônio, Pernambucano 🇧🇷, usuário linux, amante de jogos ele
 - PostgreSQL
 
 ## Trabalhos
-- [MyFastSurvey](www.myfastsurvey.com){:target="_blank" -  Desenvolvido em conjunto com @EmersonDantas , @waldirmarques e @emanoelmlsilva
+- [MyFastSurvey](www.myfastsurvey.com){:target="_blank"} -  Desenvolvido em conjunto com @EmersonDantas , @waldirmarques e @emanoelmlsilva
 
 ## Contato
-- [Facebook](www.facebook.com/alvaro-antonio-543){:target="_blank"
-- [Linkedin](www.linkedin.com/in/alvarords){:target="_blank"
-- [Email](alvaroantoniosbu@gmail.com){:target="_blank"
+- [Facebook](www.facebook.com/alvaro-antonio-543){:target="_blank"}
+- [Linkedin](www.linkedin.com/in/alvarords){:target="_blank"}
+- [Email](alvaroantoniosbu@gmail.com){:target="_blank"}
