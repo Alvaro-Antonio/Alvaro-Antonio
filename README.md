@@ -5,7 +5,7 @@
 Sou Álvaro Antônio, Pernambucano 🇧🇷, usuário linux, amante de jogos eletrônicos e tecnologia
 
 - 📚 Graduado pela UFPB - Campus IV, em Licenciatura em Ciência da Computação
-- 💻 Já sou formado como técnico em informática para internet no IFPE - Campus Belo Jardim
+- 💻 Formado como técnico em informática para internet no IFPE - Campus Belo Jardim
 - 💭 Me pergunte o que quiser
 
 ## Skills
@@ -13,6 +13,8 @@ Sou Álvaro Antônio, Pernambucano 🇧🇷, usuário linux, amante de jogos ele
 - Django 
 - Angular
 - PostgreSQL
+- JSF
+- LINUX
 
 ## Trabalhos
 - MyFastSurvey: www.myfastsurvey.com -  Desenvolvido em conjunto com @EmersonDantas , @waldirmarques e @emanoelmlsilva
