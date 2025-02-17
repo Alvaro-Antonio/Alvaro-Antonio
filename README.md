@@ -17,7 +17,7 @@ Sou Álvaro Antônio, Pernambucano 🇧🇷, usuário linux, amante de jogos ele
 - LINUX
 
 ## Trabalhos
-- MyFastSurvey: www.myfastsurvey.com -  Desenvolvido em conjunto com @EmersonDantas , @waldirmarques e @emanoelmlsilva
+- MyFastSurvey: https://myfastsurvey.com.br -  Desenvolvido em conjunto com @EmersonDantas , @waldirmarques e @emanoelmlsilva
 
 ## Contato
 - Linkedin: www.linkedin.com/in/alvarords
